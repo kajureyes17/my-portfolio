@@ -117,7 +117,7 @@ const contactInfo: ContactItem[] = [
     label: 'Address',
     icon: 'bi bi-geo-alt',
     values: [
-      'Purol General Luna, Brgy. Tabunok',
+      'Purok General Luna, Brgy. Tabunok',
       'Talisay City, Cebu'
     ],
     delay: 300

@@ -112,7 +112,7 @@ const profileImage = new URL(
   import.meta.url
 ).href
 const signatureImage = new URL(
-  '../assets/img/misc/signature-1.webp',
+  '../assets/img/misc/signature.png',
   import.meta.url
 ).href
 const signatureQuote =

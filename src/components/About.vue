@@ -108,7 +108,7 @@ const sectionSubtitle =
    Images
 ================================ */
 const profileImage = new URL(
-  '../assets/img/profile/pic1.jpg',
+  '../assets/img/profile/IMG_5226.jpeg',
   import.meta.url
 ).href
 const signatureImage = new URL(

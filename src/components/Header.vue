@@ -12,7 +12,7 @@
       <nav id="navmenu" class="navmenu">
 
         <div class="profile-img">
-          <img src="../assets/img/profile/pic2.jpg" alt="Profile" class="img-fluid rounded-circle">
+          <img src="../assets/img/profile/IMG_5225.jpeg" alt="Profile" class="img-fluid rounded-circle">
         </div>
 
         <a href="index.html" class="logo d-flex align-items-center justify-content-center active">

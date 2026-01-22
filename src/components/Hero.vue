@@ -55,7 +55,7 @@
             </div>
             <!-- Use Vue asset alias @/assets/ for images -->
             <img
-              src="../assets/img/profile/pic2.jpg"
+              src="../assets/img/profile/IMG_5224.jpeg"
               alt="Portfolio Hero"
               class="img-fluid hero-main-image"
             />
